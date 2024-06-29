@@ -1,2 +1,3 @@
 # QRCODE
- a qrcode developed using python
+
+qrcode developed using python
